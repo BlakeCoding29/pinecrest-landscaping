@@ -4,7 +4,7 @@ A fictional landscaping-company website built as a portfolio demo.
 
 ## Live Demo
 
-Coming soon through GitHub Pages.
+https://blakecoding29.github.io/pinecrest-landscaping/
 
 ## About This Project
 
